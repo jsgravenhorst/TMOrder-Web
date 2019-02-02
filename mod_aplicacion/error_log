@@ -1,0 +1,1 @@
+[03-Nov-2018 16:45:48 America/Bogota] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home7/tachinav/tmorder.olonte.com/mod_aplicacion/tmorder_admin_subcat.php on line 16

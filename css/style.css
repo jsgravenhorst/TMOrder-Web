@@ -1,0 +1,24 @@
+body {
+    background-image: url(../images/fondo.jpg);
+    background-position: center center;	  
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#header{
+	/*background: rgba(180,180,195, 0.1);*/
+	/*background: #73173E;*/
+	background: url("../images/background2.png");
+	text-align: center;
+	height:220px;
+	width:100%; 
+	opacity: 0.5;
+}
+
+#header img{
+	/*background: rgba(180,180,195, 0.1);*/
+	height:220px;
+	width:30%;
+	opacity: 0.5;
+}
